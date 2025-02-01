@@ -21,7 +21,7 @@ async function getWordData() {
             <div class="word">
                 <h3>${word}</h3>
                 <button onclick="playSound()">
-                    <i class="fas fa-volume-up"></i>
+                    <i class="fas fa-volume-up" style="cursor:pointer;"></i>
                 </button>
             </div>
             <div class="details">
